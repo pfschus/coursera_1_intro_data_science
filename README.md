@@ -8,7 +8,7 @@ University of Michigan
 
 # Week 1
 
-* [week_1\basic_python_functions.ipynb](Basic python functions)
+* [Basic python functions](week_1\basic_python_functions.ipynb)
 * Types and sequences
 * More on strings and formatting
 * Dates and times
