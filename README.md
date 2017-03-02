@@ -21,7 +21,7 @@ University of Michigan
 * [Dates and times](week_1/dates_and_times.ipynb)
   * Time since the epoch
   * Work in real time
-* [Reading and writing `.csv` files](reading_writing_csv.ipynb)
+* [Reading and writing `.csv` files](week_1/reading_writing_csv.ipynb)
   * Reading `.csv` files
   * Select by column or row
   * Sorting, grouping entries
