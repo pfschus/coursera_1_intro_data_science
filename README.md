@@ -1,4 +1,4 @@
-# coursera_1_intro_data_scienceaaaa
+# coursera_1_intro_data_science
 My work from Coursera's Introduction to Data Science course, the first course in the data science specialization through UM. The course is hosted here: <https://www.coursera.org/specializations/data-science-python>
 
 # Author info  
@@ -8,9 +8,21 @@ University of Michigan
 
 # Week 1
 
-* [Basic python functions](week_1/basic_python_functions.ipynb)
-* Types and sequences
-* More on strings and formatting
-* Dates and times
-* Reading and writing `.csv` files
+* [Basic of python variables and functions](week_1/basic_python_functions.ipynb)
+  * Basics of how to structure a function
+  * Required, optional, labeled input parameters
+  * `help()` function
+* [Types and sequences](week_1/types_and_sequences.ipynb)
+  * `type()` function
+  * Tuples, lists, strings, dictionaries, sequences
+* [More on strings and formatting](week_1/more_on_strings_formatting.ipynb)
+  * Using placeholders `{}` and formatting with `.format()`
+  * Formatting number of digits or characters: integers, floats, strings
+* [Dates and times](week_1/dates_and_times.ipynb)
+  * Time since the epoch
+  * Work in real time
+* [Reading and writing `.csv` files](reading_writing_csv.ipynb)
+  * Reading `.csv` files
+  * Select by column or row
+  * Sorting, grouping entries
 * Advanced python objects (ongoing work)
