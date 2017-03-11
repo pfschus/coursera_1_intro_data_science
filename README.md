@@ -25,4 +25,6 @@ University of Michigan
   * Reading `.csv` files
   * Select by column or row
   * Sorting, grouping entries
-* Advanced python objects (ongoing work)
+* [Advanced python objects](week_1/advanced_python_objects_map_lambda.ipynb)
+  * The `map()` function
+  * `lambda` and list comprehensions
