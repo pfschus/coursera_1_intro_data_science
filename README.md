@@ -28,3 +28,8 @@ University of Michigan
 * [Advanced python objects](week_1/advanced_python_objects_map_lambda.ipynb)
   * The `map()` function
   * `lambda` and list comprehensions
+* [Numpy](week_1/numpy.ipynb)
+  * Numpy arrays
+  * Operations
+  * Indexing / slicing
+  * Iterating over arrays
