@@ -26,8 +26,13 @@ University of Michigan
   * Select by column or row
   * Sorting, grouping entries
 * [Advanced python objects](week_1/advanced_python_objects_map_lambda.ipynb)
-  * The `map()` function as a generator
-  * Advanced python `lambda` and list comprehensions
+  * The `map()` function
+  * `lambda` and list comprehensions
+* [Numpy](week_1/numpy.ipynb)
+  * Numpy arrays
+  * Operations
+  * Indexing / slicing
+  * Iterating over arrays
   
 # Week 2: Basic data processing with pandas
 
