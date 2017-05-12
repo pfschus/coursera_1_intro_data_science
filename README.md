@@ -42,7 +42,7 @@ University of Michigan
   * Handling missing data, adding entries
   * Querying a series
   * Vectorizing, broadcasting data
-* [The dataframe data structure]
+* [The dataframe data structure](week_2/dataframe_data_structure.ipynb)
   * The heart of the pandas library, a 2-d series objects
   * Creating a dataframe
   * Indexing, slicing
