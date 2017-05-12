@@ -6,7 +6,7 @@ Patricia Schuster
 February 2017  
 University of Michigan
 
-# Week 1: Python fundamentals
+# Week 1: [Python](https://www.python.org/) fundamentals
 
 * [Basics of python variables and functions](week_1/basic_python_functions.ipynb)
   * Basics of how to structure a function
@@ -34,11 +34,11 @@ University of Michigan
   * Indexing / slicing
   * Iterating over arrays
   
-# Week 2: Basic data processing with pandas
+# Week 2: Basic data processing with [pandas](http://pandas.pydata.org/)
 
 * [The series data structure](week_2/series_data_structure.ipynb)
   * A pandas series is a cross between a list and a dictionary
-  * Pass in anything array-like to a pandas series, including a dictionary
+  * Pass in anything array-like
   * Handling missing data, adding entries
   * Querying a series
   * Vectorizing, broadcasting data
