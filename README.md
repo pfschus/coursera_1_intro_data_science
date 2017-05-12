@@ -6,9 +6,9 @@ Patricia Schuster
 February 2017  
 University of Michigan
 
-# Week 1
+# Week 1: Python fundamentals
 
-* [Basic of python variables and functions](week_1/basic_python_functions.ipynb)
+* [Basics of python variables and functions](week_1/basic_python_functions.ipynb)
   * Basics of how to structure a function
   * Required, optional, labeled input parameters
   * `help()` function
@@ -25,4 +25,21 @@ University of Michigan
   * Reading `.csv` files
   * Select by column or row
   * Sorting, grouping entries
-* Advanced python objects (ongoing work)
+* [Advanced python objects](week_1/advanced_python_objects_map_lambda.ipynb)
+  * The `map()` function as a generator
+  * Advanced python `lambda` and list comprehensions
+  
+# Week 2: Basic data processing with pandas
+
+* [The series data structure](week_2/series_data_structure.ipynb)
+  * A pandas series is a cross between a list and a dictionary
+  * Pass in anything array-like to a pandas series, including a dictionary
+  * Handling missing data, adding entries
+  * Querying a series
+  * Vectorizing, broadcasting data
+* [The dataframe data structure]
+  * The heart of the pandas library, a 2-d series objects
+  * Creating a dataframe
+  * Indexing, slicing
+  * Dropping, adding data
+  * (ongoing work)
