@@ -47,4 +47,9 @@ University of Michigan
   * Creating a dataframe
   * Indexing, slicing
   * Dropping, adding data
-  * (ongoing work)
+  * Modifying, copying data
+* [DataFrame loading, querying, indexing](week_2/dataframe_loading_querying_indexing.ipynb)
+  * Loading data from `.csv` files
+  * Querying a DataFrame
+  * Indexing and multi-indexing DataFrames
+  * Handling missing values
