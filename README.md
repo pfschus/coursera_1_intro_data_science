@@ -57,8 +57,26 @@ University of Michigan
 # Week 3: Advanced Python [pandas](http://pandas.pydata.org/)
 
 * [Merging dataframes](week_3/merging_dataframes.ipynb)
+  * Adding new columns
+  * Merging two large dataframes
 * [Pandas idioms](week_3/idiomatic_pandas.ipynb)
-* [Group by](week_3/idiomatic_pandas.ipynb)
+  * Method chaining
+  * Map 
+* [Group by](week_3/groupby.ipynb)
+  * Provide a function to `groupby`
+  * `groupby` objects
 * [Scales](week_3/scales.ipynb)
+  * Ratio, interval, ordinal, nominal scales
+  * Collapsing ratio data into categorical data
 * [Pivot tables](week_3/pivot_tables.ipynb)
 * [Date functionality](week_3/date_functionality.ipynb)
+  * Timestamp, period, datetimeindex, periodindex
+  * Converting to datetime
+  * Timedeltas
+  * Working with dates in a DataFrame
+
+# Update
+
+Dec. 15, 2017  
+
+Working on Week 3 assignment
