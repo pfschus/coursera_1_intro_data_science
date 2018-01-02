@@ -75,8 +75,13 @@ University of Michigan
   * Timedeltas
   * Working with dates in a DataFrame
 
-# Update
+# Week 4: Statistical Analysis in Python and Project
 
-Dec. 15, 2017  
-
-Working on Week 3 assignment
+* [Distributions](week_4/distributions.ipynb)
+  * Binomial distribution
+  * Continuous distribution
+* [Hypothesis testing](week_4/hypothesis_testing.ipynb)
+  * t-test
+  * p-value
+  
+Course completed 1/2/2018
