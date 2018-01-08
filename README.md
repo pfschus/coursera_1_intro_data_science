@@ -1,6 +1,8 @@
 # coursera_1_intro_data_science
 My work from Coursera's Introduction to Data Science course, the first course in the data science specialization through UM. The course is hosted here: <https://www.coursera.org/specializations/data-science-python>
 
+NOTE: I have included my uploaded assignments here. If you are enrolling in the course, you may not access the completed assignments. They are provided here for my personal reference and for teaching examples to my students. 
+
 # Author info  
 Patricia Schuster  
 February 2017  
@@ -53,6 +55,9 @@ University of Michigan
   * Querying a DataFrame
   * Indexing and multi-indexing DataFrames
   * Handling missing values
+* [Assignment 2- Pandas Introduction](week_2/Assignment_2.ipynb)
+  * Work with data from Olympic medals and US census
+  * Apply simple pandas methods including rename, slicing, return maximum, etc.
   
 # Week 3: Advanced Python [pandas](http://pandas.pydata.org/)
 
@@ -74,6 +79,9 @@ University of Michigan
   * Converting to datetime
   * Timedeltas
   * Working with dates in a DataFrame
+* [Assignment 3- More Pandas](week_3/Assignment_3.ipynb)
+  * Work with data on energy supply be country
+  * Merge three dataframes and analyze resulting data
 
 # Week 4: Statistical Analysis in Python and Project
 
@@ -83,5 +91,9 @@ University of Michigan
 * [Hypothesis testing](week_4/hypothesis_testing.ipynb)
   * t-test
   * p-value
+* [Assignment 4- Hypothesis Testing](week_4/Assignment_4.ipynb)
+  * Work with data on US housing prices over time
+  * Answer the research question: Are university towns more resistant to economic recessions?
+  * Apply `ttest`
   
 Course completed 1/2/2018
