@@ -95,5 +95,6 @@ University of Michigan
   * Work with data on US housing prices over time
   * Answer the research question: Are university towns more resistant to economic recessions?
   * Apply `ttest`
+  * Note: Sean Law accomplished a similar task using `pd.melt` in his [blog](http://seanlaw.github.io/2017/12/27/im-melting/)
   
 Course completed 1/2/2018
